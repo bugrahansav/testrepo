@@ -27,9 +27,6 @@ body{
 
 }
 
-.leftBar {
-    position: sticky;
-}
 
 .leftBarOption:hover{
     background-color:#263747;
